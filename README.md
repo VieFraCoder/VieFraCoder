@@ -1,4 +1,4 @@
-### "Hello, World!" 👋 I'm a Vietnamese developer living in Paris and I started my coding journey in Octember 2021.
+### "Hello, World!" 👋 I'm Vietnamese developer, living in Paris and I started my coding journey in Octember 2021.
 
 - 🌱 I’m currently learning:  JavaScript and Solidity
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
