@@ -1,6 +1,6 @@
-### "Hello, World!" 👋 I'm on my way to to becoming a full-stack dev
+### "Hello, World!" 👋 I'm a Vietnamese developer living in Paris and I started my coding journey in Octember 2021.
 
-- 🌱 I’m currently learning:  MERN stack
+- 🌱 I’m currently learning:  JavaScript and Solidity
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 <p align="center" dir="auto">
     <a href="https://www.linkedin.com/in/viefra-coder-0943a7118/" alt="LinkedIn" rel="nofollow">
