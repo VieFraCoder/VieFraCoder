@@ -1,6 +1,6 @@
 ### "Hello, World!" 👋 I'm Vietnamese developer, living in Paris and I started my coding journey in Octember 2021.
 
-- 🌱 I’m currently learning:  JavaScript and Solidity
+- 🌱 I’m currently learning:  JavaScript 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 <p align="center" dir="auto">
     <a href="https://www.linkedin.com/in/viefra-coder-0943a7118/" alt="LinkedIn" rel="nofollow">
